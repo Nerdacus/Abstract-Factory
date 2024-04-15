@@ -59,7 +59,7 @@ class Axe(Weapon):
 # Concrete Product: KnightArmor
 class KnightArmor(Armor):
     def equip(self):
-        print("Knightly armor")
+        print("Knight armor")
 
 
 # Concrete Product: BarbarianArmor
