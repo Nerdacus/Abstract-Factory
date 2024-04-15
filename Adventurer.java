@@ -62,7 +62,7 @@ class Axe implements Weapon {
 class KnightArmor implements Armor {
     @Override
     public void equip() {
-        System.out.println("Knightly armor");
+        System.out.println("Knight armor");
     }
 }
 
