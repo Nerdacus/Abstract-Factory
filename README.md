@@ -41,5 +41,5 @@ To use this Abstract Factory implementation, follow these steps:
 
 Contributions are welcome! If you'd like to contribute to this project, feel free to open an issue or submit a pull request.
 
-##License
+## License
 This project is licensed under the [MIT License](LICENSE).
