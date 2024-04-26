@@ -8,6 +8,7 @@ This repository contains an implementation of the Abstract Factory design patter
 - [Implementation](#implementation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [License](#license)
 
 ## Abstract Factory Pattern
 
