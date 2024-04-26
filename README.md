@@ -8,7 +8,6 @@ This repository contains an implementation of the Abstract Factory design patter
 - [Implementation](#implementation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Abstract Factory Pattern
 
@@ -42,6 +41,3 @@ To use this Abstract Factory implementation, follow these steps:
 
 Contributions are welcome! If you'd like to contribute to this project, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
